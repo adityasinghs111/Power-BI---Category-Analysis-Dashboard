@@ -70,7 +70,7 @@ All visuals anchor on dimension table columns for row context (Client, Seller, B
 
 ## 🛠️ Tools & Skills
 
-`Power BI` · `DAX` · `Power Query (M)` · `Star Schema Data Modeling` · `Row-Level Security (RLS)`
+`Power BI` · `DAX` · `Power Query` · `Star Schema Data Modeling` · `Row-Level Security (RLS)`
 
 ---
 
