@@ -22,7 +22,7 @@ This dashboard answers all of the above in a single, self-service Power BI repor
 
 | Revenue Analysis | Client Analysis |
 |---|---|
-| ![Revenue Analysis](Images/Revenue_Analysis.png) | ![Client Analysis](Images/Client_Analysis.png) |
+| ![Revenue Analysis](Screenshots/Revenue%20Analysis.png) | ![Client Analysis](Images/Client_Analysis.png) |
 
 | Brand Analysis | SPO Unit Price Analysis |
 |---|---|
