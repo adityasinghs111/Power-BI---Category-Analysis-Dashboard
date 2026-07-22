@@ -20,19 +20,13 @@ This dashboard answers all of the above in a single, self-service Power BI repor
 
 ## 🖼️ Dashboard Preview
 
-| Revenue Analysis | Client Analysis |
-|---|---|
-| ![Revenue Analysis](Screenshots/Revenue%20Analysis.png) | ![Client Analysis](Images/Client_Analysis.png) |
+| Revenue Analysis | SPO Unit Price Analysis | Client Analysis |
+|---|---|---|
+| ![Revenue Analysis](Screenshots/Revenue%20Analysis.png) | ![SPO Unit Price Analysis](Screenshots/SPO%20Unit%20Price%20Analysis.png) | ![Client Analysis](Screenshots/Client%20Analysis.png) |
 
-| Brand Analysis | SPO Unit Price Analysis |
-|---|---|
-| ![Brand Analysis](Images/Brand_Analysis.png) | ![SPO Unit Price Analysis](Images/SPO_Unit_Price_Analysis.png) |
-
-| MIS Report |
-|---|
-| ![MIS Report](Images/MIS_Report.png) |
-
-> 📌 *Add your exported screenshots to the `Images/` folder using the filenames referenced above (or update the paths to match your actual filenames).*
+| Brand Analysis | Revenue Analysis (Time Intelligence) | MIS Report |
+|---|---|---|
+| ![Brand Analysis](Screenshots/Brand%20Analysis.png) | ![Revenue Analysis (Time Intelligence)](Screenshots/Revenue%20Analysis%20(Time%20Intelligence).png) | ![MIS Report](Screenshots/MIS%20Report.png) |
 
 ---
 
