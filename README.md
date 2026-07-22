@@ -55,7 +55,7 @@ Built on a **star schema** — a central fact table (transaction-level purchase 
 
 All visuals anchor on dimension table columns for row context (Client, Seller, Brand, State, Product Industry), with every KPI — Revenue, Gross Margin %, Avg/Min/Max Unit Price — built as a DAX measure. This keeps the model clean and ensures numbers stay consistent no matter which dimension a visual slices by.
 
-📄 See [`DAX/Measures.md`](DAX/Measures.md) and [`DAX/CalculatedColumns.md`](DAX/CalculatedColumns.md) for full DAX documentation.
+📄 See [`DAX/Measures.md`](DAX/Measures.md) and [`DAX/Calculated Columns.md`](DAX/Calculated Columns.md) for full DAX documentation.
 
 ---
 
